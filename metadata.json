@@ -1,0 +1,29 @@
+{
+  "name": "NexaVerse",
+  "category": "Technology",
+  "description": "Modern digital agency and tech startup landing page with futuristic design, animated elements, and gradient accents",
+  "tags": ["technology", "startup", "digital-agency", "modern", "futuristic"],
+  "author": "TemplateMo",
+  "version": "1.0.0",
+  "features": [
+    "Animated loading screen",
+    "Gradient backgrounds",
+    "Responsive design",
+    "Modern typography",
+    "Service sections",
+    "Portfolio gallery",
+    "Contact form"
+  ],
+  "colors": {
+    "primary": "#00f0ff",
+    "secondary": "#ff00d4",
+    "accent": "#8b5cf6"
+  },
+  "idealFor": [
+    "Tech startups",
+    "Digital agencies",
+    "Software companies",
+    "Innovation hubs",
+    "Tech consulting"
+  ]
+}
